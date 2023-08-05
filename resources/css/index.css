@@ -1,0 +1,14 @@
+header {
+    color:khaki;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background: url(pattern.wbep);
+}
+
+.banner img {
+    height: 100px;
+    width: auto
+}
+
